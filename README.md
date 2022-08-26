@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natasha
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in HTML,CSS,JavaScript
+- 🌱 I’m currently learning HTML,CSS,JS
 
 
 <!---
